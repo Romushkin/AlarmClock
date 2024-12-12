@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="setAlarm">Установить будильник</string>
+    <string name="alarmOff">Выключить будильник</string>
+</resources>
